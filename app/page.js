@@ -32,6 +32,14 @@ export default function Home() {
               Local News
             </Link>
           </li>
+          <li>
+            <Link
+              className={linkStyles}
+              href="./week-6"
+            >
+              Local News
+            </Link>
+          </li>
         </ul>
       </main>
     );
