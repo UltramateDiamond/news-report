@@ -3,7 +3,7 @@ export default function InternationalNews() {
 
     return(
         <main>
-            <image></image>
+            <img src="">Test </img>
             <button>Learn More</button>
         </main>
     );
